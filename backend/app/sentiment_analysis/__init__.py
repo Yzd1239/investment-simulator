@@ -1,0 +1,1 @@
+from app.sentiment_analysis.model import *
